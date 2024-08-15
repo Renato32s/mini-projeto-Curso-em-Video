@@ -68,7 +68,7 @@ header > p
     color: var(--cor6);
     padding-inline: 10px;
     max-width: 500px;
-    margin-bottom: 20px;
+   padding-bottom: 20px;
     margin: auto;
 }
 
